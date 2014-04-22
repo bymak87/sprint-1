@@ -17,7 +17,35 @@
   text-align: center;
 }
 
+.startbutton{
+  background-color: green;
+  height: 30px;
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  color: white;
+
+}
 img{
   height: 150px;
   width: 200px;
+}
+.container {
+  display: inline-block;
+
+}
+
+#circle1{
+  display: inline-table;
+
+
+}
+#circle2 {
+  display: inline-table;
+
+}
+
+#circle3 {
+  display: inline-table;
+
 }
