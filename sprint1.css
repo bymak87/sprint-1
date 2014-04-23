@@ -1,9 +1,20 @@
 * {
   border: 1px solid black;
+
 }
+
+#header{
+  background-color: #1179ad;
+  height: 65px;
+
+}
+
+
 
 .body {
   height: 600px;
+  background-color: #ddf5fe;
+  font-family: "ProximaNova",arial,sans-serif
 
 }
 .circle {
@@ -24,28 +35,37 @@
   text-align: center;
   margin: auto;
   color: white;
+  font-weight: bold;
 
 }
-img{
-  height: 150px;
-  width: 200px;
+.arrow{
+  height: 40px;
+  width: 168px;
+  display: inline-block;
+
 }
 .container {
   display: inline-block;
+}
 
+p{
+  color: #6e8d99;
 }
 
 #circle1{
   display: inline-table;
+  text-align: center;
 
 
 }
 #circle2 {
   display: inline-table;
+  text-align: center;
 
 }
 
 #circle3 {
   display: inline-table;
+  text-align: center;
 
 }
